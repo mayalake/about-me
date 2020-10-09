@@ -1,0 +1,15 @@
+.ContactText{
+	vertical-align: top;
+	display: inline-block;
+	width: 50%;
+}
+
+.ContactLinks{
+	vertical-align: top;
+	display: inline-block;
+	width: 50%;
+}
+
+.FirstTextElement{
+	margin-top: 0;
+}

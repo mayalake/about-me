@@ -1,0 +1,9 @@
+.SimpleContainer{
+	padding: 100px;
+	color: grey;
+}
+
+.isGreyBackground{
+	background-color: grey;
+	color: white;
+}

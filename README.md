@@ -1,3 +1,6 @@
+Built a React website off of the Create React App Template
+Template ReadMe below:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

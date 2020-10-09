@@ -1,26 +1,25 @@
 import React from 'react';
-import logo from './logo.svg';
+
+import NavBar from './navbar/NavBar';
+import AboutMeSection from './about-section/AboutMeSection.jsx';
+import ResumeSection from './resume-section/ResumeSection';
+import ContactSection from './contact-section/ContactSection';
+
 import './App.css';
 
-function App() {
-  return (
+const App = () =>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+    	<header className="Header">
+			<NavBar />
+			<div className="HeaderText">
+				<h1>Maya Lake</h1>
+				<p>Software Developer<br/>Los Angeles</p>
+			</div>
+		</header>
+		<AboutMeSection />
+		<ResumeSection />
+		<ContactSection />
+		<footer className="Footer">&#169; 2020 Maya Lake</footer>
+    </div>;
 
 export default App;

@@ -1,0 +1,7 @@
+.NavBar {
+	position: fixed;
+	padding: 30px 0;
+	width:100%;
+	background-color: rgba(50,50,50,.90);
+	z-index: 1;
+}

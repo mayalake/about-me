@@ -1,0 +1,28 @@
+.ContactLink{
+	margin: 10px 0;
+}
+
+.ContactLink a{
+	text-decoration: none;
+	color: grey;
+}
+.ContactLink a:hover{
+	text-decoration: underline;
+}
+
+.IconContainer{
+	display: inline-block;
+	vertical-align: middle;
+	width: 20px;
+	margin: 0 10px 0 0;
+}
+
+.LinkContainer{
+	display: inline-block;
+	vertical-align: middle;
+	width: 300px;
+}
+
+.isFirstLink{
+	margin-top: 0;
+}
