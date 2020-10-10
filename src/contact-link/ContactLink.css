@@ -13,14 +13,14 @@
 .IconContainer{
 	display: inline-block;
 	vertical-align: middle;
-	width: 20px;
-	margin: 0 10px 0 0;
+	width: 5%;
+	margin: 0 5% 0 0;
 }
 
 .LinkContainer{
 	display: inline-block;
 	vertical-align: middle;
-	width: 300px;
+	width: 80%;
 }
 
 .isFirstLink{

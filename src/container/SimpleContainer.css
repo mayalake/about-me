@@ -1,8 +1,17 @@
+/*mobile*/
 .SimpleContainer{
-	padding: 100px;
+	padding: 30px;
 	color: grey;
 }
 
+/*tablet and desktop*/
+@media (min-width:768px) {
+	.SimpleContainer{
+		padding: 100px;
+	}
+}
+
+/*all*/
 .isGreyBackground{
 	background-color: grey;
 	color: white;

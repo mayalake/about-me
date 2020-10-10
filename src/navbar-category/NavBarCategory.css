@@ -1,13 +1,17 @@
 .NavBarCategory {
-	margin: 0 20px;
-	background-color: transparent;
-	border: none;
 	color: white;
-	font-size: 20px;
 	text-decoration: none;
+	margin: 0 20px;
 }
 
 .NavBarCategory:hover {
 	text-decoration: underline;
 	cursor: default;
+}
+
+/*tablet and desktop*/
+@media (min-width:768px) {
+	.NavBarCategory {
+		font-size: 20px;
+	}
 }
