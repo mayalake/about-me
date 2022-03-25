@@ -13,13 +13,13 @@ const App = () =>
 			<NavBar />
 			<div className="HeaderText">
 				<h1>Maya Lake</h1>
-				<p>Software Developer<br/>Los Angeles</p>
+				<p>Software Developer<br/>San Francisco</p>
 			</div>
 		</header>
 		<AboutMeSection />
 		<ResumeSection />
 		<ContactSection />
-		<footer className="Footer">&#169; 2020 Maya Lake</footer>
+		<footer className="Footer">&#169; 2022 Maya Lake</footer>
     </div>;
 
 export default App;
