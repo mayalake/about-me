@@ -14,6 +14,7 @@ const AboutMeText = () =>
 		<p>
 			Post college:<br/>I landed my first full-time gig as a full-stack web developer at Trip Advisor. My front-end experience was in React JSX and my middlware experience was in Java. I also worked with GraphQL to retrieve data from Postgres!
 			Since then, I've pivoted to become a backend web developer at Project44. The micro services I work with are in Java and Spring, and we use both REST endpoint and Kafka when handling data from both SQL and NoSQL databases.
+			Currently, I work for Activision doing full stack and dev ops work on the Central Tech Operations team.
 		</p>
 		<p>Likes and Dislikes:<br/>My likes include working in an uplifting team dynamic, a good adrenaline rush, and pineapples on pizza. My dislikes include overtly competitive environments, passive aggression, and anchovies on pizza.</p>
 </>;
