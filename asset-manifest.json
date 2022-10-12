@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/about-me/static/css/main.26e36c1c.chunk.css",
+    "main.js": "/about-me/static/js/main.37507354.chunk.js",
+    "main.js.map": "/about-me/static/js/main.37507354.chunk.js.map",
+    "runtime-main.js": "/about-me/static/js/runtime-main.c4167096.js",
+    "runtime-main.js.map": "/about-me/static/js/runtime-main.c4167096.js.map",
+    "static/js/2.d0e3c888.chunk.js": "/about-me/static/js/2.d0e3c888.chunk.js",
+    "static/js/2.d0e3c888.chunk.js.map": "/about-me/static/js/2.d0e3c888.chunk.js.map",
+    "index.html": "/about-me/index.html",
+    "precache-manifest.ed8b0021e64d6c4a0f88ae08d34c4399.js": "/about-me/precache-manifest.ed8b0021e64d6c4a0f88ae08d34c4399.js",
+    "service-worker.js": "/about-me/service-worker.js",
+    "static/css/main.26e36c1c.chunk.css.map": "/about-me/static/css/main.26e36c1c.chunk.css.map",
+    "static/js/2.d0e3c888.chunk.js.LICENSE.txt": "/about-me/static/js/2.d0e3c888.chunk.js.LICENSE.txt",
+    "static/media/Maya_Lake_Resume.pdf": "/about-me/static/media/Maya_Lake_Resume.ad28f20f.pdf",
+    "static/media/App.css": "/about-me/static/media/background.bda2919f.jpg",
+    "static/media/email_icon.png": "/about-me/static/media/email_icon.00d8adf2.png",
+    "static/media/headshot.jpg": "/about-me/static/media/headshot.3d458026.jpg",
+    "static/media/linkedin_icon.png": "/about-me/static/media/linkedin_icon.e7e0d9e0.png",
+    "static/media/resume.png": "/about-me/static/media/resume.48ae6068.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4167096.js",
+    "static/js/2.d0e3c888.chunk.js",
+    "static/css/main.26e36c1c.chunk.css",
+    "static/js/main.37507354.chunk.js"
+  ]
+}
